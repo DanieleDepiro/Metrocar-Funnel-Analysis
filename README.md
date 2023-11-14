@@ -6,7 +6,7 @@ This repository contains the final assessment project for the Data Analysis Prog
 The project focused on conducting a comprehensive funnel analysis to identify areas for improvement in Metrocar's customer journey. It aimed to address specific business questions, providing insights for optimization and recommendations based on data-driven findings.
 
 ## The Project
-**For all details about the project, I kindly invite you to go through the report available in this repository**
+**For all details about the project, I kindly invite you to go through the report available [here](https://github.com/DanieleDepiro/Metrocar-Funnel-Analysis/blob/abce055eee2f66add47222bc5466e845aeadf131/Metrocar%20Funnel%20Analysis%20Report.pdf)**
 
 ## Project Background
 The project aimed to conduct funnel analysis on Metrocar's customer journey to uncover drop-off points and recommend strategies for improvement. Funnel analysis helps in identifying where users exit the funnel, aiding in enhancing desired outcomes like sales and conversions.
